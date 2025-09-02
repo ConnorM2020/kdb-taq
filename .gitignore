@@ -3,3 +3,6 @@ quote.txt
 sym.q
 trade.txt
 util.q
+
+.DS_Store
+fh.q
