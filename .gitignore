@@ -3,3 +3,9 @@ quote.txt
 sym.q
 trade.txt
 util.q
+
+gitSectionB/.DS_Store
+gitSectionB/fh.q
+gitSectionB/r.q
+gitSectionB/tickNotes.q
+gitSectionB/u.q
