@@ -4,5 +4,8 @@ sym.q
 trade.txt
 util.q
 
-.DS_Store
-fh.q
+gitSectionB/.DS_Store
+gitSectionB/fh.q
+gitSectionB/r.q
+gitSectionB/tickNotes.q
+gitSectionB/u.q
